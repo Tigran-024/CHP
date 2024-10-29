@@ -1,0 +1,8 @@
+﻿  Lab4.cpp
+  RowColumnCipher.cpp
+C:\Users\User\source\repos\CHP\Lab4\RowColumnCipher.cpp(5,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\User\source\repos\CHP\Lab4\RowColumnCipher.cpp(6,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\CHP\Lab4\RowColumnCipher.cpp(24,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\CHP\Lab4\RowColumnCipher.cpp(25,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab4.vcxproj -> C:\Users\User\source\repos\CHP\x64\Debug\Lab4.exe
