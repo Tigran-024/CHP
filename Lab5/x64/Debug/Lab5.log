@@ -1,0 +1,7 @@
+﻿  Lab5.cpp
+  RLE.cpp
+C:\Users\User\source\repos\CHP\Lab5\RLE.cpp(9,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\CHP\Lab5\RLE.cpp(33,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ZIP.cpp
+  Generating Code...
+  Lab5.vcxproj -> C:\Users\User\source\repos\CHP\x64\Debug\Lab5.exe
