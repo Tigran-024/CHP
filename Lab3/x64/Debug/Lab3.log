@@ -1,0 +1,43 @@
+﻿  CesarCipher.cpp
+C:\Users\User\source\repos\CHP\Lab3\CesarCipher.h(10,14): error C3668: 'CesarCipher::encrypt': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'CesarCipher.cpp')
+  
+C:\Users\User\source\repos\CHP\Lab3\CesarCipher.h(11,14): error C3668: 'CesarCipher::decrypt': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'CesarCipher.cpp')
+  
+  Lab3.cpp
+C:\Users\User\source\repos\CHP\Lab3\CesarCipher.h(10,14): error C3668: 'CesarCipher::encrypt': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Lab3.cpp')
+  
+C:\Users\User\source\repos\CHP\Lab3\CesarCipher.h(11,14): error C3668: 'CesarCipher::decrypt': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Lab3.cpp')
+  
+C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,22): error C2259: 'CesarCipher': cannot instantiate abstract class
+  C:\Users\User\source\repos\CHP\Lab3\CesarCipher.h(4,7):
+  see declaration of 'CesarCipher'
+  C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,22):
+  due to following members:
+  C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,22):
+  'std::string Cipher::Encrypt(const std::string &)': is abstract
+  C:\Users\User\source\repos\CHP\Lab3\Cipher.h(6,25):
+  see declaration of 'Cipher::Encrypt'
+  C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,22):
+  'std::string Cipher::Decrypt(const std::string &)': is abstract
+  C:\Users\User\source\repos\CHP\Lab3\Cipher.h(7,25):
+  see declaration of 'Cipher::Decrypt'
+  
+C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,33): error C2259: 'CesarCipher': cannot instantiate abstract class
+  C:\Users\User\source\repos\CHP\Lab3\CesarCipher.h(4,7):
+  see declaration of 'CesarCipher'
+  C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,33):
+  due to following members:
+  C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,33):
+  'std::string Cipher::Encrypt(const std::string &)': is abstract
+  C:\Users\User\source\repos\CHP\Lab3\Cipher.h(6,25):
+  see declaration of 'Cipher::Encrypt'
+  C:\Users\User\source\repos\CHP\Lab3\Lab3.cpp(10,33):
+  'std::string Cipher::Decrypt(const std::string &)': is abstract
+  C:\Users\User\source\repos\CHP\Lab3\Cipher.h(7,25):
+  see declaration of 'Cipher::Decrypt'
+  
+  Generating Code...
